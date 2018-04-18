@@ -1,0 +1,8 @@
+*.auto.tfvars
+roles/
+.terraform/
+.vscode/
+**/*.backup
+**/*.retry
+*.pem
+
